@@ -32,8 +32,8 @@ Chaque méthode est visualisée graphiquement pour démontrer son comportement e
 
 1. Clonez ce repository :
 ```bash
-   git clone https://github.com/votreutilisateur/resolution-labyrinthe.git
-   cd resolution-labyrinthe
+   git clone https://github.com/AntoineBuffandeau/Maze_Solving_Random_Walk.git
+   cd Maze_Solving_Random_Walk
 ```
 2. Lancez le programme Python
 ```bash
@@ -57,4 +57,3 @@ Chaque méthode est visualisée graphiquement pour démontrer son comportement e
 ### Marche Aléatoire Quantique Sans Retour
 
 ![Quantique Sans Retour](maze_solving_quantique_sans_retour.png)
-
